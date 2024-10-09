@@ -1,5 +1,5 @@
 ### Olá, eu sou o Guilherme! 👋
-- 🌱 Atualmente estou estudando no Instituto PROA e fazendo bacharelado em Ciência da Computação.
+- 🌱 Sou estudante de Ciências da Computação e desenvolvedor full stack em formação, com experiência prática em Java, Angular, React e MySQL. Focado em criar soluções completas e de impacto, busco sempre aplicar minhas habilidades para resolver problemas.
 
 
 <div>
